@@ -1,0 +1,6 @@
+{
+  "name": "Floral Bloom Cards",
+  "description": "Interactive card component demo where painterly watercolor flowers bloom on hover using custom shaders and artistic generative brushes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
