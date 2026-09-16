@@ -3,16 +3,16 @@ import './globals.css'; // Global styles
 
 export const metadata: Metadata = {
   title: 'Floral Bloom Cards',
-  description: 'Interactive card component demo where painterly watercolor flowers bloom on hover using custom shaders and artistic generative brushes.',
+  description: 'Interactive generative botanical cards featuring watercolor wildflower meadows, nocturnal bioluminescent ferns and spores, and aquatic water lily ponds with real-time watercolor shaders.',
   openGraph: {
     title: 'Floral Bloom Cards',
-    description: 'Interactive card component demo where painterly watercolor flowers bloom on hover using custom shaders and artistic generative brushes.',
+    description: 'Interactive generative botanical cards featuring watercolor wildflower meadows, nocturnal bioluminescent ferns and spores, and aquatic water lily ponds with real-time watercolor shaders.',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Floral Bloom Cards',
-    description: 'Interactive card component demo where painterly watercolor flowers bloom on hover using custom shaders and artistic generative brushes.',
+    description: 'Interactive generative botanical cards featuring watercolor wildflower meadows, nocturnal bioluminescent ferns and spores, and aquatic water lily ponds with real-time watercolor shaders.',
   },
 };
 
